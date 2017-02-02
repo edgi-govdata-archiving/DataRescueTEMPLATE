@@ -1,4 +1,4 @@
-### Welcome to the Feb 4 2017 DataRescueNYC event! Please: 
+### Welcome to DataRescueNYC Feb 4 2017! Please: 
 
 * **Review the [Code of Conduct](https://docs.google.com/document/d/1bmMTOCgzZslkQwy03NoqX4pEFFDFyMoEQDro7h35E7c/edit)**
 * **Join the Slack: http://archivers-slack.herokuapp.com, and the #nyc channel**
