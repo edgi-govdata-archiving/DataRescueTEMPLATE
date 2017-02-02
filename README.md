@@ -1,4 +1,4 @@
-### Start here for the Feb 4 2017 DataRescueNYC event. Welcome! Please: 
+### Welcome to the Feb 4 2017 DataRescueNYC event! Please: 
 
 * **Review the [Code of Conduct](https://docs.google.com/document/d/1bmMTOCgzZslkQwy03NoqX4pEFFDFyMoEQDro7h35E7c/edit)**
 * **Join the Slack: http://archivers-slack.herokuapp.com, and the #nyc channel**
@@ -6,7 +6,7 @@
   * 1) Web archiving, 2) Data archiving, 3) Storytelling, 4) Onward
 * **On the day of the event, sign in at the registration table, and go to where your track is gathering** (*FYI* Onward might not convene until the afternoon)
 
-## Choosing and joining a track
+## Choose a track
 
 ### 1) Web archiving: contribute to the [Internet Archive’s End of Term archive](http://eotarchive.cdlib.org/2016.html). 
 * In this track you will be working through federal websites to identify important data and figure out what we need to do with it. You should have familiarity with a web browser and attention to detail. 
