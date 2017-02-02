@@ -12,21 +12,21 @@
 * You should have familiarity with a web browser and attention to detail. 
 * Goals: archive websites from offices of DOE, EPA, DOI, etc. 
 * **To join this track:** 
-  * Download the Internet Archive’s Chrome Extension; it allows you to check the last stored copy of a page:
+  * Download the Internet Archive’s Chrome Extension to check the last stored copy of a page:
 https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak 
-  * Download our Chrome extension; it  https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok 
+  * Download our Chrome extension to log pages that need additional attention:  https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok 
   * Join the #archiving-web slack channel
 
 ### 2) Data archiving: contribute to [DataRefuge.org](https://datarefuge.org), a CKAN instance. 
 * EITHER you should have deep domain knowledge of scientific datasets, OR be a librarian, OR be a skilled technologist in a programming language of your choice (eg python, javascript, c, java, etc), knowledge of the command line (bash, shell, powershell), experience working with structured data (eg json formatting). Experience in front-end web development a plus. 
 * Goals: archive data from USGS, etc. 
 * **To join this track:** 
-  * Write your github username in the #archiving-data Slack channel, & tag @louh, @mattprice, @dcwalk and one of us will add you to the Github org
+  * Write your github username in the #archiving-data Slack channel, & tag [@louh](https://github.com/louh), [@mattprice](https://github.com/titaniumbones), [@dcwalk](https://github.com/dcwalk) and one of us will add you to the Github org
   * When we add you to the repo, make your membership public
   * Join the #archiving-data slack channel
 
 ### 3) Storytelling
-* Have a penchant for developing compelling narratives and/or social media strategies? 
+* You should have a penchant for developing compelling narratives and/or social media strategies
 * Goals: tell/write stories on the importance of climate and environmental data on our everyday lives. Share this work on social media. 
 * Join the #storytelling slack channel
 
