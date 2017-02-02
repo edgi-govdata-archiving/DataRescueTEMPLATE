@@ -18,8 +18,8 @@ https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmll
   * Join the #archiving-web slack channel
 
 ### 2) Data archiving: contribute to [DataRefuge.org](https://datarefuge.org), a CKAN instance. 
-* EITHER you should have deep domain knowledge of scientific datasets, OR be a librarian, OR be a skilled technologist in a programming language of your choice (eg python, javascript, c, java, etc), knowledge of the command line (bash, shell, powershell), experience working with structured data (eg json formatting). Experience in front-end web development a plus. 
-* Goals: archive data from USGS, etc. 
+* EITHER have deep domain knowledge of scientific datasets, OR be a librarian, OR be a skilled technologist in a programming language of your choice (eg python, javascript, c, java, etc), knowledge of the command line (bash, shell, powershell), experience working with structured data (eg json formatting). Experience in front-end web development a plus. 
+* Goals: archive data from USGS, other datasets waiting in the queue, etc. 
 * **To join this track:** 
   * Write your github username in the #archiving-data Slack channel, & tag [@louh](https://github.com/louh), [@mattprice](https://github.com/titaniumbones), [@dcwalk](https://github.com/dcwalk) and one of us will add you to the Github org
   * When we add you to the repo, make your membership public
