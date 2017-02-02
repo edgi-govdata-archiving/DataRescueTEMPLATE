@@ -2,14 +2,19 @@
 
 Even though we're nowhere near done collecting data, events are pushing us to think about what we do next. We're already seeing changes to government websites, and we need to be able to:
 
-1. monitor websites
-2. filter changes
-3. understand data
-4. disseminating
+1. [monitor websites](#monitoring-websites)
+1. [filter changes](#filtering-changes)
+1. s
+1. [~~understand data~~](#understanding-data)
+1. [disseminating](#disseminating)
 
 ## Monitoring Websites
 
 [Page Freezer](http://www.pagefreezer.com) has generously donated use of their tracking service for the next four years. We are setting up a server which will provide a testbed for their API's and allow us to query changes to individual pages or domains. We need to familiarize ourselves with the API and write docs that allow organization members to quickly make sense of its most important features.
+
+Current materials:
+* [pagefreezer-tools](https://github.com/edgi-govdata-archiving/pagefreezer-tools)
+* [pagefreezer-cli](https://github.com/edgi-govdata-archiving/pagefreezer-cli)
 
 ### Goal
 
@@ -32,6 +37,9 @@ The vast majority of web page changes are of limited interest to us, and so we n
 * Many domains update their "Last Updated" date at random. Again, cutting these out would help.
 * Other examples?
 
+Current materials:
+* [versionista-outputter](https://github.com/edgi-govdata-archiving/versionista-outputter)
+
 ### Goal
 
 To reduce the amount of noise in our website change results and reduce the length of time of our change review process
@@ -45,21 +53,6 @@ To reduce the amount of noise in our website change results and reduce the lengt
 
 **High**, Time Sensitive
 
-## Understanding Data
-
-This is a very large set of data (10^5 pages already, hopefully 10^6 pages in the future). Most of our analysis team has limited experience extracting semantically relevant information from these kinds of archives. What meaningful information can we expect to find, and what tools will we need to find it?
-
-### Goal
-
-To have a preliminary set of approaches and tools identified for analyzing web page data
-
-### Deliverable
-
-* Brief report on appropriate statistical/digital humanities tools for this work.
-
-### Priority
-
-Low, Less Time Sensitive
 
 ## Disseminating
 
@@ -76,3 +69,19 @@ To decide on the next milestones for outreach and engagement with archived mater
 ### Priority
 
 Medium, Less Time Sensitive
+
+## ~~Understanding Data~~
+
+This is a very large set of data (10^5 pages already, hopefully 10^6 pages in the future). Most of our analysis team has limited experience extracting semantically relevant information from these kinds of archives. What meaningful information can we expect to find, and what tools will we need to find it?
+
+### Goal
+
+To have a preliminary set of approaches and tools identified for analyzing web page data
+
+### Deliverable
+
+* Brief report on appropriate statistical/digital humanities tools for this work.
+
+### Priority
+
+Low, Less Time Sensitive
