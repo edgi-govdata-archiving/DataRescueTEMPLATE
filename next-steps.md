@@ -4,7 +4,7 @@ Even though we're nowhere near done collecting data, events are pushing us to th
 
 1. [monitor websites](#monitoring-websites)
 1. [filter changes](#filtering-changes)
-1. s
+1. [audit resiliency](#auditing-resiliency)
 1. [~~understand data~~](#understanding-data)
 1. [disseminating](#disseminating)
 
@@ -52,6 +52,29 @@ To reduce the amount of noise in our website change results and reduce the lengt
 ### Priority
 
 **High**, Time Sensitive
+
+
+## Auditing Resiliency
+
+As we move into supporting the use and ongoing access to the data we have saved we are beginning to have questions about the
+
+Current materials:
+* [datarefugephilly/ckan](https://github.com/datarefugephilly/ckan)
+* [datarefugephilly/ckanext-extrafields](https://github.com/datarefugephilly/ckanext-extrafields)
+* [Overview Issue #27 on IPFS](https://github.com/edgi-govdata-archiving/overview/issues/27)
+
+### Goal
+
+To ensure that as we develop our tools to store data for future use we are creating secure, redundant, and resilient storage
+
+### Deliverable
+
+* Documentation with 5-10 suggested best practises as well as considerations and resources as we develop our tools
+* Potential milestones for our projects to hit in the near and long term
+
+### Priority
+
+Medium, Less Time Sensitive
 
 
 ## Disseminating
