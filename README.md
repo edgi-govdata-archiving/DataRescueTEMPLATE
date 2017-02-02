@@ -31,8 +31,8 @@
 ### 4) Onward
 * for newbies and veterans of EDGI alike
 * Goals: discuss / spec out the next 3 to 6 months of tech development plans as we move beyond collection; discuss security, resiliency, redundancy.
-* **To join this track:** join the #storytelling slack channel
+* **To join this track:** join the #onward slack channel
 
 ****
 
-**If you are ready to learn more, browse https://github.com/edgi-govdata-archiving**
+**If you are ready to learn more about archiving, browse https://github.com/edgi-govdata-archiving**
