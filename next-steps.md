@@ -43,7 +43,7 @@ To reduce the amount of noise in our website change results and reduce the lengt
 
 ### Priority
 
-Medium, Less Time Sensitive
+**High**, Time Sensitive
 
 ## Understanding Data
 
