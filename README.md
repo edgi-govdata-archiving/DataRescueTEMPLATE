@@ -4,7 +4,7 @@
 * **Join the Slack: http://archivers-slack.herokuapp.com, and the #nyc channel**
 * **Familiarize yourself with the four tracks, and think about which you would join:** 
   * 1) Web archiving, 2) Data archiving, 3) Storytelling, 4) Onward
-* **On the day of the event, go in person to where your track is gathering** (*FYI* Onward might not convene until the afternoon)
+* **On the day of the event, sign in at the registration table, and go to where your track is gathering** (*FYI* Onward might not convene until the afternoon)
 
 ## Choosing and joining a track
 
