@@ -16,7 +16,7 @@
   * Download our [Chrome extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok)
   * Join the #archiving-web slack channel
 
-### 2) Data archiving: contribute to [DataRefuge.org](https://datarefuge.org), a CKAN instance. 
+### 2) Data archiving: contribute to [DataRefuge.org](https://www.datarefuge.org), a CKAN instance. 
 * EITHER have deep domain knowledge of scientific datasets, OR be a librarian, OR be a skilled technologist in a programming language of your choice (eg python, javascript, c, java, etc), knowledge of the command line (bash, shell, powershell), experience working with structured data (eg json formatting). Experience in front-end web development a plus. 
 * Goals: archive data from USGS, other datasets waiting in the queue, etc. 
 * **To join this track:** 
