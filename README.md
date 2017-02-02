@@ -7,7 +7,7 @@ Start here for the Feb 4 2017 event. Welcome! Please:
   * 1) Web archiving, 2) Data archiving, 3) Storytelling, 4) Onward
 * **On the day of the event, go in person to where your track is gathering** (*NB* Onward might not convene until the afternoon)
 
-## Choosing and preparing to join a track
+## Choosing and joining a track
 
 ### 1) Web archiving: contribute to the [Internet Archive’s End of Term archive](http://eotarchive.cdlib.org/2016.html). 
 * You should have familiarity with a web browser and attention to detail. 
@@ -33,6 +33,6 @@ https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmll
 
 ### 4) Onward
 * for newbies and veterans of EDGI alike
-* Goals: discuss and spec out the next 3 to 6 months of tech development plans as we move beyond collection, discuss security, resiliency, redundancy.
+* Goals: discuss / spec out the next 3 to 6 months of tech development plans as we move beyond collection; discuss security, resiliency, redundancy.
 * Join the #onward slack channel
 
