@@ -21,7 +21,7 @@
 * EITHER have deep domain knowledge of scientific datasets, OR be a librarian, OR be a skilled technologist in a programming language of your choice (eg python, javascript, c, java, etc), knowledge of the command line (bash, shell, powershell), experience working with structured data (eg json formatting). Experience in front-end web development a plus. 
 * Goals: archive data from USGS, other datasets waiting in the queue, etc. 
 * **To join this track:** 
-  * Join the #archiving-data slack channel, write your github username & tag [@louh](https://github.com/louh), [@mattprice](https://github.com/titaniumbones), [@dcwalk](https://github.com/dcwalk). We will add you to this Github org.
+  * Join the #archiving-data slack channel, write your github username & tag [@lou](https://github.com/louh), [@mattprice](https://github.com/titaniumbones), [@dcwalk](https://github.com/dcwalk). We will add you to this Github org.
   * When we add you to the repo, make your membership public
 
 ### 3) Storytelling
