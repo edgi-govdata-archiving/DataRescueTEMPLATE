@@ -31,7 +31,7 @@
 ### 4) Next Steps
 * for newbies and veterans of EDGI alike
 * Goals: discuss / spec out the next 3 to 6 months of tech development plans as we move beyond collection; discuss security, resiliency, redundancy.
-* **To join this track:** join the #onward slack channel
+* **To join this track:** join the #next-steps slack channel
 
 ****
 
