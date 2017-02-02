@@ -1,6 +1,11 @@
 # Next Steps Track: Tech for Monitoring and Continued Access
 
-Even though we're nowhere near done collecting data, events are pushing us to think about what we do next. We're already seeing changes to government websites, and we need to be able to **monitor websites, filter changes, and understand data.**
+Even though we're nowhere near done collecting data, events are pushing us to think about what we do next. We're already seeing changes to government websites, and we need to be able to:
+
+1. monitor websites
+2. filter changes
+3. understand data
+4. disseminating
 
 ## Monitoring Websites
 
@@ -29,6 +34,7 @@ The vast majority of web page changes are of limited interest to us, and so we n
 
 ### Goal
 
+To reduce the amount of noise in our website change results and reduce the length of time of our change review process
 
 ### Deliverable
 
@@ -36,7 +42,8 @@ The vast majority of web page changes are of limited interest to us, and so we n
 * Documentation suggesting improvements/next steps
 
 ### Priority
-Medium, Less Time Sensitive
+
+**High**, Time Sensitive
 
 ## Understanding Data
 
@@ -44,19 +51,28 @@ This is a very large set of data (10^5 pages already, hopefully 10^6 pages in th
 
 ### Goal
 
+To have a preliminary set of approaches and tools identified for analyzing web page data
 
 ### Deliverable
+
 * Brief report on appropriate statistical/digital humanities tools for this work.
 
 ### Priority
+
 Low, Less Time Sensitive
 
 ## Disseminating
+
 Our work is only relevant if people hear about it. How should we make our work public? What will it take to build public-facing tools to allow citizens to investigate the archive we have assembled?
 
 ### Goal
 
+To decide on the next milestones for outreach and engagement with archived materials
+
 ### Deliverable
+
 * Strategy document for communications and citizen research
 
 ### Priority
+
+Medium, Less Time Sensitive
