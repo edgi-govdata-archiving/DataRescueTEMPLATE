@@ -28,7 +28,7 @@
 * Goals: tell/write stories on the importance of climate and environmental data on our everyday lives. Share this work on social media. 
 * **To join this track:** join the #storytelling slack channel
 
-### 4) Onward
+### 4) Next Steps
 * for newbies and veterans of EDGI alike
 * Goals: discuss / spec out the next 3 to 6 months of tech development plans as we move beyond collection; discuss security, resiliency, redundancy.
 * **To join this track:** join the #onward slack channel
