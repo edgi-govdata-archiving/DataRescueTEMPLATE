@@ -1,11 +1,10 @@
-# DataRescueNYC
-Start here for the Feb 4 2017 event. Welcome! Please: 
+### Start here for the Feb 4 2017 DataRescueNYC event. Welcome! Please: 
 
 * **Review the [Code of Conduct](https://docs.google.com/document/d/1bmMTOCgzZslkQwy03NoqX4pEFFDFyMoEQDro7h35E7c/edit)**
 * **Join the Slack: http://archivers-slack.herokuapp.com**
 * **Familiarize yourself with the four tracks, and think ahead about which you would join:** 
   * 1) Web archiving, 2) Data archiving, 3) Storytelling, 4) Onward
-* **On the day of the event, go in person to where your track is gathering** (*NB* Onward might not convene until the afternoon)
+* **On the day of the event, go in person to where your track is gathering** (*FYI* Onward might not convene until the afternoon)
 
 ## Choosing and joining a track
 
