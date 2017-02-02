@@ -12,9 +12,8 @@
 * In this track you will be working through federal websites to identify important data and figure out what we need to do with it. You should have familiarity with a web browser and attention to detail. 
 * Goals: secure websites from offices of DOE, EPA, DOI, etc. 
 * **To join this track:** 
-  * Download the Internet Archive’s Chrome Extension to check the last stored copy of a page:
-https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak 
-  * Download our Chrome extension: https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok 
+  * Download the [Internet Archive’s Wayback Machine Chrome extension](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) to check the last stored copy of a page.
+  * Download our [Chrome extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok)
   * Join the #archiving-web slack channel
 
 ### 2) Data archiving: contribute to [DataRefuge.org](https://datarefuge.org), a CKAN instance. 
