@@ -13,7 +13,6 @@ Even though we're nowhere near done collecting data, events are pushing us to th
 [Page Freezer](http://www.pagefreezer.com) has generously donated use of their tracking service for the next four years. We are setting up a server which will provide a testbed for their API's and allow us to query changes to individual pages or domains. We need to familiarize ourselves with the API and write docs that allow organization members to quickly make sense of its most important features.
 
 Current materials:
-* [pagefreezer-tools](https://github.com/edgi-govdata-archiving/pagefreezer-tools)
 * [pagefreezer-cli](https://github.com/edgi-govdata-archiving/pagefreezer-cli)
 
 ### Goal
