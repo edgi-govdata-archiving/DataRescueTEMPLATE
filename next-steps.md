@@ -2,8 +2,8 @@
 
 Even though we're nowhere near done collecting data, events are pushing us to think about what we do next. We're already seeing changes to government websites, and we need to be able to:
 
-1. [monitor websites](#monitoring-websites) (work with @mattprice in the [pagefreezer-cli](https://github.com/edgi-govdata-archiving/pagefreezer-cli) repo)
-1. [filter changes](#filtering-changes) (work with @mattprice in the [pagefreezer-cli](https://github.com/edgi-govdata-archiving/pagefreezer-cli) repo)
+1. [monitor websites](#monitoring-websites) (work with @titaniumbones in the [pagefreezer-cli](https://github.com/edgi-govdata-archiving/pagefreezer-cli) repo)
+1. [filter changes](#filtering-changes) (work with @titaniumbones in the [pagefreezer-cli](https://github.com/edgi-govdata-archiving/pagefreezer-cli) repo)
 1. [audit resiliency](#auditing-resiliency) (work with _@librlaurie (??) or @dcwalk (??)_ in _Google Docs??_)
 1. [understand data](#understanding-data) (needs a leader, preferably someone w/ semantic analysis or similar bacground)
 1. [~~disseminating~~](#disseminating) (moved to storytelling!)
