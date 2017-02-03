@@ -21,7 +21,7 @@
 * EITHER have deep domain knowledge of scientific datasets, OR be a librarian, OR be a skilled technologist in a programming language of your choice (eg python, javascript, c, java, etc), knowledge of the command line (bash, shell, powershell), experience working with structured data (eg json formatting). Experience in front-end web development a plus. 
 * Goals: archive data from USGS, other datasets waiting in the queue, etc. 
 * **To join this track:** 
-  * Join the #archiving-data slack channel, write your github username & tag [@lou](https://github.com/louh), [@mattprice](https://github.com/titaniumbones), [@dcwalk](https://github.com/dcwalk). We will add you to this Github org.
+  * Join the #archiving-data slack channel, write your github username & tag [@lou](https://github.com/louh), [@mattprice](https://github.com/titaniumbones), [@dcwalk](https://github.com/dcwalk). We will add you to this Github org
   * When we add you to the repo, make your membership public
 
 ### 3) Storytelling
@@ -32,7 +32,7 @@
 ### 4) Next Steps
 * for newbies and veterans of EDGI alike
 * Goals: discuss / spec out the next 3 to 6 months of tech development plans as we move beyond collection; discuss security, resiliency, redundancy. See [next steps doc](./next-steps.md) and [accompanying technical discusison](https://github.com/edgi-govdata-archiving/pagefreezer-cli) for more details
-* **To join this track:** join the #next-steps slack channel,  write your github username & tag [@lou](https://github.com/louh), [@mattprice](https://github.com/titaniumbones), [@dcwalk](https://github.com/dcwalk). We will add you to this Github org.gi
+* **To join this track:** join the #next-steps slack channel,  write your github username & tag [@lou](https://github.com/louh), [@mattprice](https://github.com/titaniumbones), [@dcwalk](https://github.com/dcwalk). We will add you to this Github org
 
 ****
 
