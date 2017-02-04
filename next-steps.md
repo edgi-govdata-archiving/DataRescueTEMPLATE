@@ -2,18 +2,18 @@
 
 Even though we're nowhere near done collecting data, events are pushing us to think about what we do next. We're already seeing changes to government websites, and we need to be able to:
 
-1. [monitor websites](#monitoring-websites)
-1. [filter changes](#filtering-changes)
-1. [audit resiliency](#auditing-resiliency)
-1. [~~understand data~~](#understanding-data)
-1. [disseminating](#disseminating)
+1. [monitor websites](#monitoring-websites) (work with @titaniumbones in the [pagefreezer-cli](https://github.com/edgi-govdata-archiving/pagefreezer-cli) repo)
+1. [filter changes](#filtering-changes) (work with @titaniumbones in the [pagefreezer-cli](https://github.com/edgi-govdata-archiving/pagefreezer-cli) repo)
+1. [audit resiliency](#auditing-resiliency) (work with _@librlaurie (??) or @dcwalk (??)_ in _Google Docs??_)
+1. [understand data](#understanding-data) (needs a leader, preferably someone w/ semantic analysis or similar bacground)
+1. [~~disseminating~~](#disseminating) (moved to storytelling!)
 
 ## Monitoring Websites
 
 [Page Freezer](http://www.pagefreezer.com) has generously donated use of their tracking service for the next four years. We are setting up a server which will provide a testbed for their API's and allow us to query changes to individual pages or domains. We need to familiarize ourselves with the API and write docs that allow organization members to quickly make sense of its most important features.
 
 Current materials:
-* [pagefreezer-cli](https://github.com/edgi-govdata-archiving/pagefreezer-cli)
+* Docs and issues are in [pagefreezer-cli](https://github.com/edgi-govdata-archiving/pagefreezer-cli)
 
 ### Goal
 
@@ -37,7 +37,8 @@ The vast majority of web page changes are of limited interest to us, and so we n
 * Other examples?
 
 Current materials:
-* [versionista-outputter](https://github.com/edgi-govdata-archiving/versionista-outputter)
+* [versionista-outputter](https://github.com/edgi-govdata-archiving/versionista-outputter) implements similar goals for our current (deprecated) monitoring process
+* [sample html pages](https://github.com/edgi-govdata-archiving/pagefreezer-cli/tree/master/archives) for testing filters are provided in the [pagefreezer-cli](https://github.com/edgi-govdata-archiving/pagefreezer-cli) repo
 
 ### Goal
 
@@ -76,23 +77,25 @@ To ensure that as we develop our tools to store data for future use we are creat
 Medium, Less Time Sensitive
 
 
-## Disseminating
+## ~~Disseminating~~
 
-Our work is only relevant if people hear about it. How should we make our work public? What will it take to build public-facing tools to allow citizens to investigate the archive we have assembled?
+**This work has been moved to the "Storytelling" track!**
 
-### Goal
+~~Our work is only relevant if people hear about it. How should we make our work public? What will it take to build public-facing tools to allow citizens to investigate the archive we have assembled?~~
 
-To decide on the next milestones for outreach and engagement with archived materials
+### ~~Goal~~
 
-### Deliverable
+~~To decide on the next milestones for outreach and engagement with archived materials~~
 
-* Strategy document for communications and citizen research
+### ~~Deliverable~~
 
-### Priority
+* ~~Strategy document for communications and citizen research~~
 
-Medium, Less Time Sensitive
+### ~~Priority~~
 
-## ~~Understanding Data~~
+~~Medium, Less Time Sensitive~~
+
+## Understanding Data
 
 This is a very large set of data (10^5 pages already, hopefully 10^6 pages in the future). Most of our analysis team has limited experience extracting semantically relevant information from these kinds of archives. What meaningful information can we expect to find, and what tools will we need to find it?
 
