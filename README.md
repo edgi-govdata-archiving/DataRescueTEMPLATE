@@ -1,3 +1,14 @@
+# Template Instructions:
+
+- [ ] Update location name, date
+- [ ] Search for text between  `[` `]` to update with your event details, in particular goals
+- [ ] Confirm/Update communication channel
+- [ ] Update link to [Code of Conduct](https://docs.google.com/document/d/1bmMTOCgzZslkQwy03NoqX4pEFFDFyMoEQDro7h35E7c/edit), if needed
+- [ ] Update the [Next Steps](./next-steps.md)
+- [ ] Decide on whether to change the [Contributing Guidelines](./CONTRIBUTING.md)
+
+Examples previous events includes [DataRescueNYC](https://github.com/edgi-govdata-archiving/DataRescueNYC/tree/af42cfc16f5dcd86404a4abc5d92fc0da9361acb), [DataRescueMIT](https://github.com/datarescue-boston/DataRescueMIT-Event), [DataRescueSFBay](https://github.com/DataRescueSFBay/DataRescueSFBay-Event).
+
 # Welcome to DataRescue [Location] [MMMM DD, YYYY]! Please:
 
 1. **Review the [Code of Conduct](https://docs.google.com/document/d/1bmMTOCgzZslkQwy03NoqX4pEFFDFyMoEQDro7h35E7c/edit)**  
@@ -15,12 +26,12 @@
 ### 1) Web archiving: Contribute to the [Internet Archive’s End of Term archive](http://eotarchive.cdlib.org/2016.html) <br /> "Seeding"
 
 * In this track you will be working through federal websites to identify important data and figure out what we need to do with it. You should have familiarity with a web browser and attention to detail.
-* **Goals**: secure websites from offices of DOE, EPA, DOI, etc.
+* **Goals**: secure websites from [add specific event goals]
 * **To join this track:**
   * Download the [Internet Archive’s Wayback Machine Chrome extension](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) (checks last stored copy of a page)
   * Download our [Chrome Extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok)
   * Review what the Internet Archive's Web Crawler [Can and Cannot Collect](https://edgi-govdata-archiving.github.io/guides/internet-archive-crawler/)
-  * Review the agency primer overview: [update to relevant Agency Forecasts https://envirodatagov.org/agency-forecasts/}
+  * Review the agency primer overview: [update to relevant Agency Forecasts https://envirodatagov.org/agency-forecasts/]
   * Join the `#archiving-web` slack channel
 
 ### 2) Data archiving: contribute to [DataRefuge.org](https://www.datarefuge.org), a CKAN instance <br /> "Harvesting" and "Researching"
@@ -32,13 +43,13 @@
 
 ### 3) Storytelling
 * You should have a penchant for developing compelling narratives and/or social media strategies
-* **Goals**: tell/write stories on the importance of climate and environmental data on our everyday lives. Share this work on social media.
+* **Goals**: Tell/write stories on the importance of climate and environmental data on our everyday lives. Share this work on social media.
 * **To join this track:**
   * Join the `#storytelling` slack channel
 
 ### 4) Next Steps <br /> "Long Tail"
 * For EDGI newbies and veterans alike
-* **Goals**: Discuss the next 3 to 6 months of tech development plans as we move beyond collection; discuss security, resiliency, redundancy. See [next steps doc](./next-steps.md) and [accompanying technical discusison](https://github.com/edgi-govdata-archiving/pagefreezer-cli) for more details
+* **Goals**: Discuss the next 3 to 6 months of tech development plans as we move beyond collection; discuss security, resiliency, redundancy. See [next steps doc](./next-steps.md) for more details
 * **To join this track:**
   * Join the `#next-steps` slack channel, write your github username & tag [[@coordinator name](#)] to be added to this GitHub org
   * When added, make your membership public
