@@ -8,7 +8,7 @@ fa-icon: group
 
 ## {{ page.title }}
 
-Event activities are divided into [X] tracks:
+[Event activities are divided into [X] sections, use [DataRefuge Paths](http://www.ppehlab.org/datarefugepaths) and [EDGI's Event Toolkit](https://envirodatagov.org/event-toolkit/) to update the text below:]
 
 #### Web archiving: Contribute to the [Internet Archive’s End of Term archive](http://eotarchive.cdlib.org/2016.html) <br /> "Seeding"
 
