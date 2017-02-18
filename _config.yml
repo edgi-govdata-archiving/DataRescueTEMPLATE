@@ -7,20 +7,20 @@ safe: false
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
 
 
 ### content configuration ###
-title:       "DataRescue[EventName]"
-keywords:    ""
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "DataRescueTEMPLATE" #update with website title
+event_name:  "DataRescue[EventName]" #update with event name
+event_date:  2017-01-01 #update with event date
+location_name: "[Location Name]" #update with location "pretty name"
+description: ""
+source_link: "" #put github repo/organization
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
-
 
 ### template colors, used site-wide via css ###
 colors:
@@ -31,6 +31,7 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+  dark-grey: '#555555'
 
 kramdown:
   auto_ids:  false
