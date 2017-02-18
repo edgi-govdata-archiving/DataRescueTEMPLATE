@@ -1,5 +1,5 @@
 ---
-title: "Tracks"
+title: "Activities"
 style: left
 bg: white
 color: dark-grey
@@ -7,6 +7,8 @@ fa-icon: group
 ---
 
 ## {{ page.title }}
+
+Event activities are divided into [X] tracks:
 
 #### Web archiving: Contribute to the [Internet Archive’s End of Term archive](http://eotarchive.cdlib.org/2016.html) <br /> "Seeding"
 
