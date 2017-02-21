@@ -5,6 +5,7 @@
 - [ ] Confirm/Update communication channel
 - [ ] Update link to [Code of Conduct](https://docs.google.com/document/d/1bmMTOCgzZslkQwy03NoqX4pEFFDFyMoEQDro7h35E7c/edit), if needed
 - [ ] Update the [Next Steps](./next-steps.md)
+- [ ] Decide on whether to use the [Built in Web Page](https://edgi-govdata-archiving.github.io/DataRescueTEMPLATE/), served with [GitHub Pages](https://pages.github.com/) update [`_config.yml`](https://github.com/edgi-govdata-archiving/DataRescueTEMPLATE/blob/gh-pages/_config.yml) and [`_posts` page sections](https://github.com/edgi-govdata-archiving/DataRescueTEMPLATE/tree/gh-pages/_posts) on the `gh-pages` branch. Otherwise, **delete** the branch 
 - [ ] Decide on whether to change the [Contributing Guidelines](./CONTRIBUTING.md)
 
 Examples previous events includes [DataRescueNYC](https://github.com/edgi-govdata-archiving/DataRescueNYC/tree/af42cfc16f5dcd86404a4abc5d92fc0da9361acb), [DataRescueMIT](https://github.com/datarescue-boston/DataRescueMIT-Event), [DataRescueSFBay](https://github.com/DataRescueSFBay/DataRescueSFBay-Event).
@@ -31,7 +32,7 @@ Examples previous events includes [DataRescueNYC](https://github.com/edgi-govdat
   * Download the [Internet Archive’s Wayback Machine Chrome extension](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) (checks last stored copy of a page)
   * Download our [Chrome Extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok)
   * Review what the Internet Archive's Web Crawler [Can and Cannot Collect](https://edgi-govdata-archiving.github.io/guides/internet-archive-crawler/)
-  * Review the agency primer overview: [update to relevant Agency Forecasts https://envirodatagov.org/agency-forecasts/]
+  * Review the agency primer overview: [update to relevant Agency Forecasts https://envirodatagov.org/archiving/]
   * Join the `#archiving-web` slack channel
 
 ### 2) Data archiving: contribute to [DataRefuge.org](https://www.datarefuge.org), a CKAN instance <br /> "Harvesting" and "Researching"
