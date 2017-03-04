@@ -10,12 +10,12 @@
 
 Examples previous events includes [DataRescueNYC](https://github.com/edgi-govdata-archiving/DataRescueNYC/tree/af42cfc16f5dcd86404a4abc5d92fc0da9361acb), [DataRescueMIT](https://github.com/datarescue-boston/DataRescueMIT-Event), [DataRescueSFBay](https://github.com/DataRescueSFBay/DataRescueSFBay-Event).
 
-# Welcome to DataRescue [Location] [MMMM DD, YYYY]! Please:
+# Welcome to DataRescue Los Angeles @ UCLA Mar 11, 2017! Please:
 
 1. **Review the [Code of Conduct](https://docs.google.com/document/d/1bmMTOCgzZslkQwy03NoqX4pEFFDFyMoEQDro7h35E7c/edit)**  
 [Update this link to a tailored version of the Code of Conduct as needed]
 1. **Join the Slack**  
-**http://archivers-slack.herokuapp.com,** and **`#[channel-name]`**
+**https://rauchg-slackin-qonsfhhvxs.now.sh/,** and **`#datarescue-la` channel**
 1. **Familiarize yourself with the four tracks, and think about which you would join:**  
 1) Web archiving, 2) Data archiving, 3) Storytelling, 4) Next Steps
 1. **On the day of the event**
